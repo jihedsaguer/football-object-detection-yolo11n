@@ -1,0 +1,5 @@
+
+ultralytics==8.4.180
+onnx
+onnxruntime
+opencv-python

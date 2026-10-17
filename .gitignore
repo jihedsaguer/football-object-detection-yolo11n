@@ -1,0 +1,20 @@
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Training outputs
+runs/
+results/
+wandb/
+
+# Dataset files
+train/
+valid/
+test/
